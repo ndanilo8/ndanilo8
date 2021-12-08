@@ -9,6 +9,8 @@
 <p align='left'>🔭 I’m currently working on...</p>
 <p align='left'>
   <a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems for   Sounding Rockets</a>
+</p>
+<p align='left'>
   <a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging     for High Altitude Balloons, etc</a>
 </p>
 <!--

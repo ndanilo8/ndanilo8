@@ -13,9 +13,9 @@
 
 <h2 align='left'>🔭 Stats </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=html,batchfile,processing&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
-[![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndanilo8&repo=GNC-model-rocket&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=html,batchfile,processing&theme=github_dark)](https://github.com/ndanilo8/github-readme-stats)
+[![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=github_dark)](https://github.com/ndanilo8/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndanilo8&repo=GNC-model-rocket&theme=github_dark)](https://github.com/ndanilo8/github-readme-stats)
 
 <!--
 **ndanilo8/ndanilo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

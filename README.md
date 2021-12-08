@@ -1,4 +1,4 @@
-# Hi, I'm Danilo! [![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)]
+# Hi, I'm Danilo! [wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
 
 <p align='center'>

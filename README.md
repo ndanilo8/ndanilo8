@@ -9,7 +9,7 @@
 <h2 align='left'>🔭 Projects </h2>
 <p align='left'>I’m currently working on sounding rocket's avionics, such as:</p>
 <p align='left'><a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems</a></p>
-<p align='left'><a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a></p>
+<p align='left'><a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a> (Private Repo)</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=html,batchfile,processing&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
 [![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)

@@ -1,7 +1,5 @@
 <h1 align='center'> Hi there 👋 </h1>
 <p align='center'>I'm Danilo.</p>
-- 🔭 I’m currently working on 
-- [Active Control System for Model Rocketry](https://github.com/ndanilo8/GNC-model-rocket)
 
 <!--
 **ndanilo8/ndanilo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

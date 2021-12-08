@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 </h1>
+<h1 align='center'> Hi! 👋 </h1>
 <p align='center'>I'm Danilo</p>
 <p align='center'>🔭 I’m currently working on <a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems </a>for Sounding Rockets</p>
 <p align='center'>And <a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a> for High Altitude Balloons, sounding rockets, RC planes, helis... (btw it's a private repo)</p>

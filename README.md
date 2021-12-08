@@ -11,8 +11,10 @@
 <p align='left'><a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems</a></p>
 <p align='left'><a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a></p>
 
-[![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
+[![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndanilo8&repo=GNC-model-rocket)](https://github.com/ndanilo8/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndanilo8&repo=AvionicsTelemetryLogger)](https://github.com/ndanilo8/github-readme-stats)
 
 <!--
 **ndanilo8/ndanilo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

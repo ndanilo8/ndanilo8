@@ -13,8 +13,8 @@
 
 <h2 align='left'>🔭 Stats </h2>
 
-[![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=github_dark)](https://github.com/ndanilo8/ndanilo8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=python,html,batchfile,processing&theme=github_dark)](https://github.com/ndanilo8/ndanilo8)
+[![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=github_dark&show_icons=true)](https://github.com/ndanilo8/ndanilo8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=python,html,batchfile,processing&theme=github_dark&show_icons=true)](https://github.com/ndanilo8/ndanilo8)
 
 <!--
 **ndanilo8/ndanilo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

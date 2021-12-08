@@ -1,4 +1,5 @@
-<h1 align='center'> Hi, I'm Danilo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# Hi, I'm Danilo! [![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)]
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
 
 <p align='center'>
 <a href="http://daniloonspace.com"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/md-globe.png"></a>&nbsp;&nbsp;
@@ -6,12 +7,12 @@
 <a href="https://twitter.com/daniloonspace"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/logo-twitter.png"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align='left'>🔭 Projects </h2>
-<p align='left'>I’m currently working on sounding rocket's avionics, such as:</p>
-<p align='left'><a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems</a></p>
-<p align='left'><a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a> (Private Repo)</p>
+## 🔧 Projects
+I’m currently working on sounding rocket's avionics, such as:
+[Active Control Systems](https://github.com/ndanilo8/GNC-model-rocket)
+[Telemetry Logging (Private Repo)](https://github.com/ndanilo8/AvionicsTelemetryLogger)
 
-<h2 align='left'>🔭 Stats </h2>
+## 🔭 Stats
 
 [![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=github_dark&show_icons=true&count_private=true)](https://github.com/ndanilo8/ndanilo8)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=python,html,batchfile,processing&theme=github_dark)](https://github.com/ndanilo8/ndanilo8)

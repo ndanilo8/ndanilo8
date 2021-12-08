@@ -1,7 +1,7 @@
 <h1 align='center'> Hi!👋 </h1>
 <p align='center'>I'm Danilo</p>
 
-<p align='center'>
+<p align='left'>
 <a href="http://daniloonspace.com"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/md-globe.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/danilo-nascimento-501b50204/"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/logo-linkedin.png"></a>&nbsp;&nbsp;
 </p>

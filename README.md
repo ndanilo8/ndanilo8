@@ -1,8 +1,12 @@
 <h1 align='center'> Hi! 👋 </h1>
+
+<p align='center'>
+<a href="http://daniloonspace.com"><img height="30" src="https://https://raw.githubusercontent.com/ndanilo8/ndanilo8/82c0c4e4c661df2bf45d1eddb52c7669e4fd4df5/icons/md-globe.svg"></a>&nbsp;&nbsp;
+</p>
+
 <p align='center'>I'm Danilo</p>
 <p align='center'>🔭 I’m currently working on <a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems </a>for Sounding Rockets</p>
 <p align='center'>And <a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a> for High Altitude Balloons, sounding rockets, RC planes, helis... (btw it's a private repo)</p>
-<p align='center'>Check my website <a href="http://daniloonspace.com" target="_blank" rel="noopener noreferrer">here!</a></p>
 <!--
 **ndanilo8/ndanilo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

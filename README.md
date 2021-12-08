@@ -11,6 +11,9 @@
 <p align='left'><a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems</a></p>
 <p align='left'><a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a> (Private Repo)</p>
 
+![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<#FCC624>&logoColor=white&color=2bbc8a)
+
+<h2 align='left'>🔭 Stats </h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=html,batchfile,processing&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
 [![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ndanilo8&repo=GNC-model-rocket&theme=onedark)](https://github.com/ndanilo8/github-readme-stats)

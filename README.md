@@ -7,7 +7,6 @@
 </p>
 
 <h2 align='left'> Projects </h2>
-##Projects
 <p align='left'>🔭 I’m currently working on sounding rocket's avionics, such as:</p>
 <p align='left'><a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems</a></p>
 <p align='left'><a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a></p>

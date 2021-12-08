@@ -1,5 +1,5 @@
 <h1 align='center'> Hi! 👋 </h1>
-<h2 align='center'>I'm Danilo</h2>
+<p align='center'>I'm Danilo</p>
 
 <p align='center'>
 <a href="http://daniloonspace.com"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/md-globe.png"></a>&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there 👋 </h1>
 <p align='center'>I'm Danilo.</p>
-
+<p align='center'>🔭 I’m currently working on <a href="https://github.com/ndanilo8/GNC-model-rocket">Active Control Systems for Sounding Rockets</a>.</p>
 <!--
 **ndanilo8/ndanilo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

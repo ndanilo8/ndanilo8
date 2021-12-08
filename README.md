@@ -1,5 +1,4 @@
-# Hi, I'm Danilo! [wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+<h1> Hi, I'm Danilo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" </h1>
 
 <p align='center'>
 <a href="http://daniloonspace.com"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/md-globe.png"></a>&nbsp;&nbsp;

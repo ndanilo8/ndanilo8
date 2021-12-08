@@ -7,9 +7,10 @@
 </p>
 
 <h2 align='left'> Projects </h2>
-<p align='left'>🔭 I’m currently working on sounding rocket's avionics such as:</p>
+<p align='left'>🔭 I’m currently working on sounding rocket's avionics, such as:</p>
 <p align='left'><a href="https://github.com/ndanilo8/GNC-model-rocket" target="_blank" rel="noopener noreferrer">Active Control Systems</a></p>
 <p align='left'><a href="https://github.com/ndanilo8/AvionicsTelemetryLogger" target="_blank" rel="noopener noreferrer">Telemetry Logging</a></p>
+
 <!--
 **ndanilo8/ndanilo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

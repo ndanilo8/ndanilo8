@@ -10,6 +10,7 @@
 ### 🔧 Projects
 I’m currently working on sounding rocket's avionics, such as:
 [Active Control Systems](https://github.com/ndanilo8/GNC-model-rocket)
+
 [Telemetry Logging (Private Repo)](https://github.com/ndanilo8/AvionicsTelemetryLogger)
 
 ### 🔭 Stats

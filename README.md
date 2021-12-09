@@ -2,7 +2,7 @@
 
 
 
-<img src="http://daniloonspace.com" alt="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/md-globe.png" width="30"/>
+<img src="http://daniloonspace.com"width="30"/>
 
 
 <p align='center'>

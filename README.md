@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Pythom-informational?style=flat&logo=python&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/IDE-Visual Studio Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 
 ###  🔥 Projects
 I’m currently working on sounding rocket's avionics, such as:

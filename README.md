@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Code-Pythom-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Raspberry_Pi-informational?style=flat&logo=RaspberryPi&logoColor=white&color=blue)
-
+![](https://img.shields.io/badge/Text_Editor-Sublime_Text_3-informational?style=flat&logo=SublimeText&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/CAD-SolidWorks-informational?style=flat&logo=DassaultSystemes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CAD-CATIA_V5-informational?style=flat&logo=DassaultSystemes&logoColor=white&color=blue)
@@ -27,6 +27,8 @@
 ![](https://img.shields.io/badge/ECAD-Altium_Designer-informational?style=flat&logo=AltiumDesigner&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/ECAD-KiCAD-informational?style=flat&logo=&logoColor=white&color=blue)
 
+![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Adobe-Lightroom-informational?style=flat&logo=AdobeLightroom&logoColor=white&color=blue)
 
 ###  🔥 Projects
 I’m currently working on sounding rocket's avionics, such as:

@@ -16,13 +16,15 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Pythom-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Raspberry_Pi-informational?style=flat&logo=RaspberryPi&logoColor=white&color=blue)
+
 
 ![](https://img.shields.io/badge/CAD-SolidWorks-informational?style=flat&logo=DassaultSystemes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CAD-CATIA_V5-informational?style=flat&logo=DassaultSystemes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CAD-AutoCAD_LT-informational?style=flat&logo=Autodesk&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CAD-Fusion_360-informational?style=flat&logo=Autodesk&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/ECAD-Altium-informational?style=flat&logo=AltiumDesigner&logoColor=white&color=blue)
+![](https://img.shields.io/badge/ECAD-Altium_Designer-informational?style=flat&logo=AltiumDesigner&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/ECAD-KiCAD-informational?style=flat&logo=&logoColor=white&color=blue)
 
 

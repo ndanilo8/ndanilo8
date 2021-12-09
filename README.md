@@ -1,6 +1,6 @@
 <h1> Hi, I'm Danilo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"</h1>
 
- [![My Website](https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/md-globe.png)](http://daniloonspace.com)
+ [![My Website](https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/md-globe.png)](http://daniloonspace.com){width="30px"}
 
 
 <p align='center'>

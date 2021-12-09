@@ -39,9 +39,8 @@ I’m currently working on sounding rocket's avionics, such as:
 
 ### 📈 Stats
 
-[![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=github_dark&show_icons=true&count_private=true)](https://github.com/ndanilo8/ndanilo8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=python,html,batchfile,processing&theme=github_dark)](https://github.com/ndanilo8/ndanilo8)
-
+[![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=github_dark&show_icons=true&count_private=true&hide=prs,issues&line_height=30)](https://github.com/ndanilo8/ndanilo8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=python,html,batchfile,processing&theme=github_dark&langs_count=5)](https://github.com/ndanilo8/ndanilo8)
 
 
 <!--

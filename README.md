@@ -37,7 +37,7 @@
 ###  🔥 Projects
 I’m currently working on experimental sounding rocket's avionics, such as:
 
-[Active Control Systems For Experimental Sounding Rockets](https://github.com/ndanilo8/GNC-model-rocket)
+[Active Control Systems For Experimental Academic Sounding Rockets](https://github.com/ndanilo8/GNC-model-rocket)
 
 [Telemetry Logging (Private Repo)](https://github.com/ndanilo8/AvionicsTelemetryLogger)
 

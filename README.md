@@ -35,11 +35,11 @@
 ![](https://img.shields.io/badge/Adobe-Lightroom-informational?style=flat&logo=AdobeLightroom&logoColor=white&color=blue)
 
 ###  🔥 Projects
-I’m currently working on experimental sounding rocket's avionics, such as:
+I’m currently working on experimental rocket's avionics, such as:
 
 [Active Control Systems For Experimental Academic Sounding Rockets](https://github.com/ndanilo8/GNC-model-rocket)
 
-[Telemetry Logging (Private Repo)](https://github.com/ndanilo8/AvionicsTelemetryLogger)
+[Telemetry Logging](https://github.com/ndanilo8/ModelRocketComputer)
 
 ### 📈 Stats
 

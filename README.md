@@ -28,16 +28,18 @@
 ![](https://img.shields.io/badge/CAD-AutoCAD_LT-informational?style=flat&logo=Autodesk&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CAD-Fusion_360-informational?style=flat&logo=Autodesk&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/ECAD-Altium_Designer-informational?style=flat&logo=AltiumDesigner&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/ECAD-KiCAD-informational?style=flat&logo=&logoColor=white&color=blue)
+![](https://img.shields.io/badge/ECAD-Altium_Designer-informational?style=flat&logo=AltiumDesigner&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Adobe-Lightroom-informational?style=flat&logo=AdobeLightroom&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=AdobeIllustrator&logoColor=white&color=blue)
+
 
 ###  🔥 Projects
 I’m currently working on experimental rocket's avionics, such as:
 
-[Active Control Systems For Experimental Academic Sounding Rockets](https://github.com/ndanilo8/GNC-model-rocket)
+[AHRS/GNC Systems](https://github.com/ndanilo8/GNC-model-rocket)
 
 [Telemetry Logging](https://github.com/ndanilo8/ModelRocketComputer)
 

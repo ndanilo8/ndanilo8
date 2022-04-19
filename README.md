@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code_+_PlatformIO-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)

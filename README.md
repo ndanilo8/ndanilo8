@@ -1,6 +1,4 @@
-# Hi, I'm Danilo! 
-
-<img src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/wave.gif" width="10px">
+# Hi, I'm Danilo! <img src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/wave.gif" width="10px">
 
 
 <p align='left'>

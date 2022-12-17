@@ -39,9 +39,8 @@
 ###  🔥 Projects
 I’m currently working on experimental rocket's avionics, such as:
 
-[AHRS/GNC Systems](https://github.com/ndanilo8/GNC-model-rocket)
+[GN&C Guidance Navigation & Control](https://github.com/ndanilo8/GNC-model-rocket)
 
-[Telemetry Logging](https://github.com/ndanilo8/ModelRocketComputer)
 
 ### 📈 Stats
 

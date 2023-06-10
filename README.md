@@ -36,10 +36,13 @@
 ![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=AdobeIllustrator&logoColor=white&color=blue)
 
 
-###  🔥 Projects
-I’m currently working on experimental rocket's avionics, such as:
+###  🔭  Projects
+I’m currently working on:
 
-[GN&C Guidance Navigation & Control](https://github.com/ndanilo8/GNC-model-rocket)
+- Learning about STM32 framework
+- MATLAB & Simulink
+- Guidance Navigation & Control Algorithms
+<!-- [GN&C Guidance Navigation & Control](https://github.com/ndanilo8/GNC-model-rocket) -->
 
 
 ### 📈 Stats

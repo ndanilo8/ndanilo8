@@ -46,7 +46,10 @@ I’m currently working on:
 
 
 ### 📈 Stats
-
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ndanilo8/count.svg" />
+</p>
 [![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=github_dark&show_icons=true&count_private=true&hide=prs,issues&line_height=30)](https://github.com/ndanilo8/ndanilo8)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=html,batchfile,processing&theme=github_dark&langs_count=5)](https://github.com/ndanilo8/ndanilo8)
 

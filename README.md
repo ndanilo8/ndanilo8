@@ -42,6 +42,7 @@ I’m currently working on:
 - Learning about STM32 framework
 - MATLAB & Simulink
 - Guidance Navigation & Control Algorithms
+- AI / Machine Learning / Deep Learning
 <!-- [GN&C Guidance Navigation & Control](https://github.com/ndanilo8/GNC-model-rocket) -->
 
 

@@ -20,7 +20,6 @@
 ![](https://img.shields.io/badge/Text_Editor-Sublime_Text_3-informational?style=flat&logo=SublimeText&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/CAD-SolidWorks-informational?style=flat&logo=DassaultSystemes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/CAD-CATIA_V5-informational?style=flat&logo=DassaultSystemes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CAD-AutoCAD_LT-informational?style=flat&logo=Autodesk&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/CAD-Fusion_360-informational?style=flat&logo=Autodesk&logoColor=white&color=blue)
 
@@ -35,10 +34,7 @@
 ###  🔭  Projects
 I’m currently working on:
 
-- Learning about STM32 framework
-- MATLAB & Simulink
-- Guidance Navigation & Control Algorithms
-- AI / Machine Learning / Deep Learning
+- [BNO055 STM32 Library](https://github.com/ndanilo8/BNO055_HAL)
 <!-- [GN&C Guidance Navigation & Control](https://github.com/ndanilo8/GNC-model-rocket) -->
 
 

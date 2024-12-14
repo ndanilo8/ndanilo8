@@ -1,0 +1,55 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Запускать workflow каждый час
+  push:
+    branches:
+      - main  # Выполнение при каждом push на ветку main
+  workflow_dispatch:  # Позволяет запускать workflow вручную
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Fetch SVG from API
+      run: |
+        git pull
+        curl -o data.svg "https://stdstatistics.onrender.com/generate-svg?username=1nv1ct4"    # бейджик с основной статистикой киберполигона
+        curl -o bbdata.svg "https://stdstatistics.onrender.com/generatebb-svg?username=1nv1ct4"     # бейджик с багбаунти статистикой 
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      
+        mv data.svg img/data.svg
+        mv bbdata.svg img/bbdata.svg
+    - name: Display directory contents for debugging
+      run: ls -R
+
+    - name: Commit new SVG
+      run: |
+        git add img/data.svg
+        git add img/bbdata.svg
+        git diff-index --quiet HEAD || git commit -m 'Update SVG image'
+      env:
+        GITHUB_TOKEN: ${{ secrets.README_WORKFLOW }} # сюда вставлять токен
+
+    - name: Update README with new timestamp
+      run: |
+        TIMESTAMP=$(date +%s)
+        sed -i.bak "s|!\[Dynamic SVG Image\](https://github.com/ndanilo8/ndanilo8/blob/main/img/data.svg?raw=true).*|![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/main/img/data.svg?raw=true&timestamp=${TIMESTAMP})|" README.md       # основной бейджик со статистикой киберполигона
+        sed -i.bak "s|!\[Dynamic BBSVG Image\](https://github.com/ndanilo8/ndanilo8/blob/main/img/bbdata.svg?raw=true).*|![Dynamic BBSVG Image](https://github.com/ndanilo8/ndanilo8/blob/main/img/bbdata.svg?raw=true&timestamp=${TIMESTAMP})|" README.md      # бейджик с багбаунти статистикой киберполигона
+        git add README.md
+        git diff-index --quiet HEAD || git commit -m 'Update README with new SVG'
+      env:
+        GITHUB_TOKEN: ${{ secrets.README_WORKFLOW }} # сюда вставлять токен
+
+    - name: Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.README_WORKFLOW }} # сюда вставлять токен
+      run: |
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+        git push origin HEAD:main

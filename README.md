@@ -6,6 +6,10 @@
 <a href="https://twitter.com/daniloinspace"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/logo-twitter_white.png"></a>&nbsp;&nbsp;
 </p>
 
+### Standoff365 Rating
+![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/main/img/data.svg?raw=true)
+
+
 ### 🔧 Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)

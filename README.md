@@ -7,7 +7,9 @@
 </p>
 
 ### Standoff365 Rating
-![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true)
+| Standoff365 statistics: |
+| :---: |
+| ![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true)  |
 
 
 ### 🔧 Tools

@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Запускать workflow каждый час
+    - cron: '0 0 * * *'  # Runs daily at midnight
   push:
     branches:
       - master  # Выполнение при каждом push на ветку main

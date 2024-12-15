@@ -40,8 +40,8 @@ jobs:
     - name: Update README with new timestamp
       run: |
         TIMESTAMP=$(date +%s)
-        sed -i.bak "s|!\[Dynamic SVG Image\](https://github.com/ndanilo8/ndanilo8/blob/main/img/data.svg?raw=true).*|![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/main/img/data.svg?raw=true&timestamp=${TIMESTAMP})|" README.md       # основной бейджик со статистикой киберполигона
-        sed -i.bak "s|!\[Dynamic BBSVG Image\](https://github.com/ndanilo8/ndanilo8/blob/main/img/bbdata.svg?raw=true).*|![Dynamic BBSVG Image](https://github.com/ndanilo8/ndanilo8/blob/main/img/bbdata.svg?raw=true&timestamp=${TIMESTAMP})|" README.md      # бейджик с багбаунти статистикой киберполигона
+        sed -i.bak "s|!\[Dynamic SVG Image\](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true).*|![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true&timestamp=${TIMESTAMP})|" README.md       # основной бейджик со статистикой киберполигона
+        sed -i.bak "s|!\[Dynamic BBSVG Image\](https://github.com/ndanilo8/ndanilo8/blob/master/img/bbdata.svg?raw=true).*|![Dynamic BBSVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/bbdata.svg?raw=true&timestamp=${TIMESTAMP})|" README.md      # бейджик с багбаунти статистикой киберполигона
         git add README.md
         git diff-index --quiet HEAD || git commit -m 'Update README with new SVG'
       env:

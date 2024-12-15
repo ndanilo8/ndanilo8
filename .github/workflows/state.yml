@@ -5,7 +5,7 @@ on:
     - cron: '0 * * * *'  # Запускать workflow каждый час
   push:
     branches:
-      - main  # Выполнение при каждом push на ветку main
+      - master  # Выполнение при каждом push на ветку main
   workflow_dispatch:  # Позволяет запускать workflow вручную
 
 jobs:

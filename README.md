@@ -7,7 +7,7 @@
 </p>
 
 ### Standoff365 Statistics
-![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true)timestamp=1734380818)
+![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true&timestamp=1734380818)
 
 
 ### 🔧 Tools

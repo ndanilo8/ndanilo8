@@ -46,21 +46,11 @@ jobs:
         git diff-index --quiet HEAD || git commit -m 'Update README with new SVG'
       env:
         GITHUB_TOKEN: ${{ secrets.README_WORKFLOW }} # сюда вставлять токен
-        
-    - name: Pull with rebase and resolve conflicts
-      run: |
-        git pull --rebase origin main || {
-          echo "Rebase failed. Resolving conflicts automatically."
-          git merge --abort || true
-          git rebase --abort || true
-          git pull origin main --strategy-option=theirs
-          git add .
-          git commit -m 'Resolve merge conflicts automatically using theirs strategy'
-        }
     
     - name: Push changes
       env:
         GITHUB_TOKEN: ${{ secrets.README_WORKFLOW }} # сюда вставлять токен
       run: |
+        git pull --rebase
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-        git push origin HEAD:main
+        git push --force

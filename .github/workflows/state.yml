@@ -47,9 +47,16 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.README_WORKFLOW }} # сюда вставлять токен
         
-    - name: Pull and resolve conflicts
+    - name: Pull with rebase and resolve conflicts
       run: |
-        git pull --rebase origin main
+        git pull --rebase origin main || {
+          echo "Rebase failed. Resolving conflicts automatically."
+          git merge --abort || true
+          git rebase --abort || true
+          git pull origin main --strategy-option=theirs
+          git add .
+          git commit -m 'Resolve merge conflicts automatically using theirs strategy'
+        }
     
     - name: Push changes
       env:

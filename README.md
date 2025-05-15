@@ -13,7 +13,8 @@
 ###  🔭  Projects
 I’m currently working on:
 
-- [BNO055 STM32 Library](https://github.com/ndanilo8/BNO055_HAL)
+- Bachelor's Dissertation: Lunar Satellite Constelation for Communication and GNSS (Position, Navigation & Timing)
+<!-- - [BNO055 STM32 Library](https://github.com/ndanilo8/BNO055_HAL)  -->
 <!-- [GN&C Guidance Navigation & Control](https://github.com/ndanilo8/GNC-model-rocket) -->
 
 

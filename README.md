@@ -1,11 +1,5 @@
 # Hi, I'm Danilo!
 
-<p align='left'>
-<a href="http://daniloinspace.com"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/md-globe_white.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/danilo-nascimento-501b50204/"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/logo-linkedin_white.png"></a>&nbsp;&nbsp;
-<a href="https://x.com/daniloinspace"><img height="30" src="https://raw.githubusercontent.com/ndanilo8/ndanilo8/master/icons/logo-twitter_white.png"></a>&nbsp;&nbsp;
-</p>
-
 <!-- ### Standoff365 Statistics
 ![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true&timestamp=1734380818) -->
 
@@ -13,7 +7,7 @@
 ###  🔭  Projects
 I’m currently working on:
 
-- **Bachelor's Dissertation:** *Lunar Satellite Constelation for Communication and GNSS (Position, Navigation & Timing)*
+<!-- - **Bachelor's Dissertation:** *Lunar Satellite Constelation for Communication and GNSS (Position, Navigation & Timing)* -->
 <!-- - [BNO055 STM32 Library](https://github.com/ndanilo8/BNO055_HAL)  -->
 <!-- [GN&C Guidance Navigation & Control](https://github.com/ndanilo8/GNC-model-rocket) -->
 

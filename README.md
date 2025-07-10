@@ -1,43 +1,31 @@
-# Hi, I'm Danilo!
+## Intro
+Hi, I'm Danilo!
+- 🚀 **Aerospace?** Yep.
+- 💻 **Backend dev?** Absolutely.
+- 🎨 **UI?** Unfortunately — but I get why it matters.
+- 🔧 **Embedded systems?** No hesitation.
 
-<!-- ### Standoff365 Statistics
+Basically, if it involves code, physics, and a healthy dose of tea — I’m in.  
+
+<!-- ### Standoff365 Statistics (seems dead)
 ![Dynamic SVG Image](https://github.com/ndanilo8/ndanilo8/blob/master/img/data.svg?raw=true&timestamp=1734380818) -->
 
+##  🔭  Projects
+**In Progress**
+- Personal summer project 
+- Learning DevOps, Golang
 
-###  🔭  Projects
-I’m currently working on:
+**Completed in 2025**
+- [x] [Bachelor's Thesis: Lunar Satellite Constelation for Low Latency Comms and global PNT](https://github.com/ndanilo8/bachelor-thesis) Grade 5/5  
+(Wrote 100+ pages so the moon could have Wi-Fi and Google maps. *Worth it.*)
+- [x] Some DevOps & Security projects
+- [x] Discord Bots
+- [x] Standoff365 red team events 
 
-<!-- - **Bachelor's Dissertation:** *Lunar Satellite Constelation for Communication and GNSS (Position, Navigation & Timing)* -->
-<!-- - [BNO055 STM32 Library](https://github.com/ndanilo8/BNO055_HAL)  -->
-<!-- [GN&C Guidance Navigation & Control](https://github.com/ndanilo8/GNC-model-rocket) -->
-
-
-### 📈 Stats
-
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ndanilo8/count.svg" />
-</p>
+## 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo8&hide=assembly,html,batchfile,processing&theme=github_dark&langs_count=5)](https://github.com/ndanilo8/ndanilo8)
 [![ndanilo8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo8&theme=github_dark&show_icons=true&count_private=true&hide=prs,issues&line_height=30)](https://github.com/ndanilo8/ndanilo8)
 
+For the Lulz
 
-<!--
-<p align='left'>
-<a href="https://www.buymeacoffee.com/daniloonspace" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Danilo A Coffee!" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
-
-**ndanilo8/ndanilo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

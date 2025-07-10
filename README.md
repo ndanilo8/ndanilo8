@@ -1,8 +1,8 @@
 ## Intro
 Hi, I'm Danilo!
 - 🚀 **Aerospace?** Yep.
-- 💻 **Backend dev?** Absolutely.
-- 🎨 **UI?** Unfortunately — but I get why it matters.
+- 💻 **Backend?** Absolutely.
+- 🎨 **Frontend?** Yeah... not my favorite, but I handle it
 - 🔧 **Embedded systems?** No hesitation.
 
 Basically, if it involves code, physics, and a healthy dose of tea — I’m in.  

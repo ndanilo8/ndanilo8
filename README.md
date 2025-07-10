@@ -16,7 +16,7 @@ Basically, if it involves code, physics, and a healthy dose of tea — I’m in.
 - Learning DevOps, Golang
 
 **Completed in 2025**
-- [x] [Bachelor's Thesis: Lunar Satellite Constelation for Low Latency Comms and global PNT](https://github.com/ndanilo8/bachelor-thesis) Grade 5/5  
+- [x] [Bachelor's Thesis: Lunar Satellite Constelation for Comms and PNT](https://github.com/ndanilo8/bachelor-thesis) Grade 5/5  
 (Wrote 100+ pages so the moon could have Wi-Fi and Google maps. *Worth it.*)
 - [x] Some DevOps & Security projects
 - [x] Discord Bots
